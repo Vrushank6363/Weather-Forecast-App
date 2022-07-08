@@ -1,2 +1,2 @@
 # Live Demo
-https://weather-app-by-smeet.netlify.app/
+https://weather-forecast-by-vrushank-ariwala-wd-05-spb5.netlify.app/
